@@ -1,3 +1,3 @@
 export { Home } from "./Home";
-export { Form } from "./Form";
+export { PHQ9Form } from "./PHQ9Form";
 export { Login } from "./Login";
